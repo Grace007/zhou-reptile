@@ -1,0 +1,25 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="location">
+		           <value>src\main\java\com\reptile\util\createtable\dataSource.properties</value>
+		</property>
+	</bean>
+	
+	<bean id="tDataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName" value="${t_dao.driverClassName}" />
+		<property name="username" value="${t_dao.username}" />
+		<property name="password" value="${t_dao.password}" />
+		<property name="url" value="${t_dao.url}" />
+	</bean>
+
+	<bean id="tDao" class="org.nutz.dao.impl.NutDao">
+		<property name="dataSource">
+			<ref local="tDataSource" />
+		</property>
+	</bean>
+
+
+</beans>

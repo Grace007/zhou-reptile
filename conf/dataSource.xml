@@ -1,0 +1,39 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+          http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+          http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+          http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
+
+
+    <bean id="tDataSource" class="org.apache.commons.dbcp.BasicDataSource">
+        <property name="driverClassName" value="${t_dao.driverClassName}"/>
+        <property name="username" value="${t_dao.username}"/>
+        <property name="password" value="${t_dao.password}"/>
+        <property name="url" value="${t_dao.url}"/>
+
+    </bean>
+    <bean id="tDao" class="org.nutz.dao.impl.NutDao">
+        <property name="dataSource">
+            <ref local="tDataSource"/>
+        </property>
+    </bean>
+
+    <!--<bean id="iniDataSource" class="org.apache.commons.dbcp.BasicDataSource">-->
+        <!--<property name="driverClassName" value="${ini_dao.driverClassName}"/>-->
+        <!--<property name="username" value="${ini_dao.username}"/>-->
+        <!--<property name="password" value="${ini_dao.password}"/>-->
+        <!--<property name="url" value="${ini_dao.url}"/>-->
+
+    <!--</bean>-->
+    <!--<bean id="iniDao" class="org.nutz.dao.impl.NutDao">-->
+        <!--<property name="dataSource">-->
+            <!--<ref local="iniDataSource"/>-->
+        <!--</property>-->
+    <!--</bean>-->
+
+
+</beans>

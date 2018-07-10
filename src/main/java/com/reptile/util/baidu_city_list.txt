@@ -1,0 +1,863 @@
+<ul class="list-group">
+<li data-val="2641" data-name="安平">
+<a>安平</a>
+</li>
+<li data-val="130" data-name="安庆">
+<a>安庆</a>
+</li>
+<li data-val="320" data-name="鞍山">
+<a>鞍山</a>
+</li>
+<li data-val="267" data-name="安阳">
+<a>安阳</a>
+</li>
+<li data-val="51" data-name="白城">
+<a>白城</a>
+</li>
+<li data-val="307" data-name="保定">
+<a>保定</a>
+</li>
+<li data-val="229" data-name="包头">
+<a>包头</a>
+</li>
+<li data-val="1740" data-name="宝应">
+<a>宝应</a>
+</li>
+<li data-val="131" data-name="北京">
+<a>北京</a>
+</li>
+<li data-val="1946" data-name="北镇">
+<a>北镇</a>
+</li>
+<li data-val="126" data-name="蚌埠">
+<a>蚌埠</a>
+</li>
+<li data-val="227" data-name="本溪">
+<a>本溪</a>
+</li>
+<li data-val="451" data-name="宾">
+<a>宾</a>
+</li>
+<li data-val="235" data-name="滨州">
+<a>滨州</a>
+</li>
+<li data-val="188" data-name="亳州">
+<a>亳州</a>
+</li>
+<li data-val="149" data-name="沧州">
+<a>沧州</a>
+</li>
+<li data-val="53" data-name="长春">
+<a>长春</a>
+</li>
+<li data-val="1262" data-name="长葛">
+<a>长葛</a>
+</li>
+<li data-val="158" data-name="长沙">
+<a>长沙</a>
+</li>
+<li data-val="356" data-name="长治">
+<a>长治</a>
+</li>
+<li data-val="348" data-name="常州">
+<a>常州</a>
+</li>
+<li data-val="251" data-name="巢湖">
+<a>巢湖</a>
+</li>
+<li data-val="280" data-name="朝阳">
+<a>朝阳</a>
+</li>
+<li data-val="201" data-name="潮州">
+<a>潮州</a>
+</li>
+<li data-val="207" data-name="承德">
+<a>承德</a>
+</li>
+<li data-val="75" data-name="成都">
+<a>成都</a>
+</li>
+<li data-val="275" data-name="郴州">
+<a>郴州</a>
+</li>
+<li data-val="297" data-name="赤峰">
+<a>赤峰</a>
+</li>
+<li data-val="2170" data-name="茌平">
+<a>茌平</a>
+</li>
+<li data-val="299" data-name="池州">
+<a>池州</a>
+</li>
+<li data-val="132" data-name="重庆">
+<a>重庆</a>
+</li>
+<li data-val="105" data-name="楚雄彝族自治州">
+<a>楚雄彝族自治州</a>
+</li>
+<li data-val="189" data-name="滁州">
+<a>滁州</a>
+</li>
+<li data-val="1879" data-name="慈溪">
+<a>慈溪</a>
+</li>
+<li data-val="466" data-name="大安">
+<a>大安</a>
+</li>
+<li data-val="167" data-name="大连">
+<a>大连</a>
+</li>
+<li data-val="111" data-name="大理">
+<a>大理</a>
+</li>
+<li data-val="282" data-name="丹东">
+<a>丹东</a>
+</li>
+<li data-val="50" data-name="大庆">
+<a>大庆</a>
+</li>
+<li data-val="355" data-name="大同">
+<a>大同</a>
+</li>
+<li data-val="369" data-name="达州">
+<a>达州</a>
+</li>
+<li data-val="471" data-name="德惠">
+<a>德惠</a>
+</li>
+<li data-val="74" data-name="德阳">
+<a>德阳</a>
+</li>
+<li data-val="372" data-name="德州">
+<a>德州</a>
+</li>
+<li data-val="1232" data-name="定州">
+<a>定州</a>
+</li>
+<li data-val="119" data-name="东莞">
+<a>东莞</a>
+</li>
+<li data-val="2663" data-name="东海">
+<a>东海</a>
+</li>
+<li data-val="120" data-name="东沙群岛">
+<a>东沙群岛</a>
+</li>
+<li data-val="174" data-name="东营">
+<a>东营</a>
+</li>
+<li data-val="283" data-name="鄂尔多斯">
+<a>鄂尔多斯</a>
+</li>
+<li data-val="1542" data-name="繁昌">
+<a>繁昌</a>
+</li>
+<li data-val="1950" data-name="肥东">
+<a>肥东</a>
+</li>
+<li data-val="2298" data-name="肥西">
+<a>肥西</a>
+</li>
+<li data-val="1331" data-name="丰">
+<a>丰</a>
+</li>
+<li data-val="138" data-name="佛山">
+<a>佛山</a>
+</li>
+<li data-val="184" data-name="抚顺">
+<a>抚顺</a>
+</li>
+<li data-val="59" data-name="阜新">
+<a>阜新</a>
+</li>
+<li data-val="128" data-name="阜阳">
+<a>阜阳</a>
+</li>
+<li data-val="300" data-name="福州">
+<a>福州</a>
+</li>
+<li data-val="226" data-name="抚州">
+<a>抚州</a>
+</li>
+<li data-val="365" data-name="赣州">
+<a>赣州</a>
+</li>
+<li data-val="257" data-name="广州">
+<a>广州</a>
+</li>
+<li data-val="1921" data-name="故城">
+<a>故城</a>
+</li>
+<li data-val="142" data-name="桂林">
+<a>桂林</a>
+</li>
+<li data-val="146" data-name="贵阳">
+<a>贵阳</a>
+</li>
+<li data-val="48" data-name="哈尔滨">
+<a>哈尔滨</a>
+</li>
+<li data-val="125" data-name="海口">
+<a>海口</a>
+</li>
+<li data-val="422" data-name="海伦">
+<a>海伦</a>
+</li>
+<li data-val="151" data-name="邯郸">
+<a>邯郸</a>
+</li>
+<li data-val="179" data-name="杭州">
+<a>杭州</a>
+</li>
+<li data-val="127" data-name="合肥">
+<a>合肥</a>
+</li>
+<li data-val="523" data-name="黑山">
+<a>黑山</a>
+</li>
+<li data-val="208" data-name="衡水">
+<a>衡水</a>
+</li>
+<li data-val="200" data-name="河源">
+<a>河源</a>
+</li>
+<li data-val="353" data-name="菏泽">
+<a>菏泽</a>
+</li>
+<li data-val="162" data-name="淮安">
+<a>淮安</a>
+</li>
+<li data-val="253" data-name="淮北">
+<a>淮北</a>
+</li>
+<li data-val="250" data-name="淮南">
+<a>淮南</a>
+</li>
+<li data-val="271" data-name="黄冈">
+<a>黄冈</a>
+</li>
+<li data-val="252" data-name="黄山">
+<a>黄山</a>
+</li>
+<li data-val="311" data-name="黄石">
+<a>黄石</a>
+</li>
+<li data-val="321" data-name="呼和浩特">
+<a>呼和浩特</a>
+</li>
+<li data-val="301" data-name="惠州">
+<a>惠州</a>
+</li>
+<li data-val="319" data-name="葫芦岛">
+<a>葫芦岛</a>
+</li>
+<li data-val="2498" data-name="霍邱">
+<a>霍邱</a>
+</li>
+<li data-val="294" data-name="湖州">
+<a>湖州</a>
+</li>
+<li data-val="1133" data-name="将乐">
+<a>将乐</a>
+</li>
+<li data-val="302" data-name="江门">
+<a>江门</a>
+</li>
+<li data-val="2310" data-name="建瓯">
+<a>建瓯</a>
+</li>
+<li data-val="318" data-name="吉安">
+<a>吉安</a>
+</li>
+<li data-val="478" data-name="蛟河">
+<a>蛟河</a>
+</li>
+<li data-val="1760" data-name="贾汪区">
+<a>贾汪区</a>
+</li>
+<li data-val="1402" data-name="嘉祥">
+<a>嘉祥</a>
+</li>
+<li data-val="334" data-name="嘉兴">
+<a>嘉兴</a>
+</li>
+<li data-val="33" data-name="嘉峪关">
+<a>嘉峪关</a>
+</li>
+<li data-val="55" data-name="吉林">
+<a>吉林</a>
+</li>
+<li data-val="288" data-name="济南">
+<a>济南</a>
+</li>
+<li data-val="290" data-name="晋城">
+<a>晋城</a>
+</li>
+<li data-val="2558" data-name="景">
+<a>景</a>
+</li>
+<li data-val="157" data-name="荆州">
+<a>荆州</a>
+</li>
+<li data-val="333" data-name="金华">
+<a>金华</a>
+</li>
+<li data-val="286" data-name="济宁">
+<a>济宁</a>
+</li>
+<li data-val="2880" data-name="金乡">
+<a>金乡</a>
+</li>
+<li data-val="238" data-name="晋中">
+<a>晋中</a>
+</li>
+<li data-val="166" data-name="锦州">
+<a>锦州</a>
+</li>
+<li data-val="349" data-name="九江">
+<a>九江</a>
+</li>
+<li data-val="479" data-name="九台">
+<a>九台</a>
+</li>
+<li data-val="46" data-name="鸡西">
+<a>鸡西</a>
+</li>
+<li data-val="2046" data-name="冀州">
+<a>冀州</a>
+</li>
+<li data-val="1322" data-name="句容">
+<a>句容</a>
+</li>
+<li data-val="2582" data-name="莒南">
+<a>莒南</a>
+</li>
+<li data-val="210" data-name="开封">
+<a>开封</a>
+</li>
+<li data-val="1046" data-name="开原">
+<a>开原</a>
+</li>
+<li data-val="104" data-name="昆明">
+<a>昆明</a>
+</li>
+<li data-val="124" data-name="莱芜">
+<a>莱芜</a>
+</li>
+<li data-val="191" data-name="廊坊">
+<a>廊坊</a>
+</li>
+<li data-val="36" data-name="兰州">
+<a>兰州</a>
+</li>
+<li data-val="347" data-name="连云港">
+<a>连云港</a>
+</li>
+<li data-val="366" data-name="聊城">
+<a>聊城</a>
+</li>
+<li data-val="351" data-name="辽阳">
+<a>辽阳</a>
+</li>
+<li data-val="183" data-name="辽源">
+<a>辽源</a>
+</li>
+<li data-val="368" data-name="临汾">
+<a>临汾</a>
+</li>
+<li data-val="1823" data-name="临朐">
+<a>临朐</a>
+</li>
+<li data-val="234" data-name="临沂">
+<a>临沂</a>
+</li>
+<li data-val="292" data-name="丽水">
+<a>丽水</a>
+</li>
+<li data-val="2116" data-name="溧水">
+<a>溧水</a>
+</li>
+<li data-val="298" data-name="六安">
+<a>六安</a>
+</li>
+<li data-val="147" data-name="六盘水">
+<a>六盘水</a>
+</li>
+<li data-val="193" data-name="龙岩">
+<a>龙岩</a>
+</li>
+<li data-val="221" data-name="娄底">
+<a>娄底</a>
+</li>
+<li data-val="1107" data-name="庐江">
+<a>庐江</a>
+</li>
+<li data-val="344" data-name="漯河">
+<a>漯河</a>
+</li>
+<li data-val="153" data-name="洛阳">
+<a>洛阳</a>
+</li>
+<li data-val="327" data-name="吕梁">
+<a>吕梁</a>
+</li>
+<li data-val="358" data-name="马鞍山">
+<a>马鞍山</a>
+</li>
+<li data-val="1228" data-name="满城">
+<a>满城</a>
+</li>
+<li data-val="501" data-name="梅河口">
+<a>梅河口</a>
+</li>
+<li data-val="141" data-name="梅州">
+<a>梅州</a>
+</li>
+<li data-val="1100" data-name="蒙城">
+<a>蒙城</a>
+</li>
+<li data-val="240" data-name="绵阳">
+<a>绵阳</a>
+</li>
+<li data-val="49" data-name="牡丹江">
+<a>牡丹江</a>
+</li>
+<li data-val="163" data-name="南昌">
+<a>南昌</a>
+</li>
+<li data-val="291" data-name="南充">
+<a>南充</a>
+</li>
+<li data-val="2638" data-name="南宫">
+<a>南宫</a>
+</li>
+<li data-val="315" data-name="南京">
+<a>南京</a>
+</li>
+<li data-val="261" data-name="南宁">
+<a>南宁</a>
+</li>
+<li data-val="161" data-name="南通">
+<a>南通</a>
+</li>
+<li data-val="309" data-name="南阳">
+<a>南阳</a>
+</li>
+<li data-val="133" data-name="南平">
+<a>南平</a>
+</li>
+<li data-val="180" data-name="宁波">
+<a>宁波</a>
+</li>
+<li data-val="192" data-name="宁德">
+<a>宁德</a>
+</li>
+<li data-val="1238" data-name="宁晋">
+<a>宁晋</a>
+</li>
+<li data-val="472" data-name="农安">
+<a>农安</a>
+</li>
+<li data-val="228" data-name="盘锦">
+<a>盘锦</a>
+</li>
+<li data-val="81" data-name="攀枝花">
+<a>攀枝花</a>
+</li>
+<li data-val="1746" data-name="沛">
+<a>沛</a>
+</li>
+<li data-val="213" data-name="平顶山">
+<a>平顶山</a>
+</li>
+<li data-val="1666" data-name="平乡">
+<a>平乡</a>
+</li>
+<li data-val="350" data-name="萍乡">
+<a>萍乡</a>
+</li>
+<li data-val="1329" data-name="邳州">
+<a>邳州</a>
+</li>
+<li data-val="2525" data-name="浦城">
+<a>浦城</a>
+</li>
+<li data-val="195" data-name="莆田">
+<a>莆田</a>
+</li>
+<li data-val="209" data-name="濮阳">
+<a>濮阳</a>
+</li>
+<li data-val="342" data-name="黔东南苗族侗族自治州">
+<a>黔东南苗族侗族自治州</a>
+</li>
+<li data-val="306" data-name="黔南布依族苗族自治州">
+<a>黔南布依族苗族自治州</a>
+</li>
+<li data-val="1508" data-name="启东">
+<a>启东</a>
+</li>
+<li data-val="236" data-name="青岛">
+<a>青岛</a>
+</li>
+<li data-val="1242" data-name="清河">
+<a>清河</a>
+</li>
+<li data-val="135" data-name="庆阳">
+<a>庆阳</a>
+</li>
+<li data-val="2169" data-name="青州">
+<a>青州</a>
+</li>
+<li data-val="148" data-name="秦皇岛">
+<a>秦皇岛</a>
+</li>
+<li data-val="2358" data-name="琼海">
+<a>琼海</a>
+</li>
+<li data-val="41" data-name="齐齐哈尔">
+<a>齐齐哈尔</a>
+</li>
+<li data-val="134" data-name="泉州">
+<a>泉州</a>
+</li>
+<li data-val="243" data-name="衢州">
+<a>衢州</a>
+</li>
+<li data-val="173" data-name="日照">
+<a>日照</a>
+</li>
+<li data-val="1348" data-name="瑞昌">
+<a>瑞昌</a>
+</li>
+<li data-val="1467" data-name="上虞">
+<a>上虞</a>
+</li>
+<li data-val="254" data-name="三明">
+<a>三明</a>
+</li>
+<li data-val="121" data-name="三亚">
+<a>三亚</a>
+</li>
+<li data-val="1667" data-name="沙河">
+<a>沙河</a>
+</li>
+<li data-val="289" data-name="上海">
+<a>上海</a>
+</li>
+<li data-val="154" data-name="商丘">
+<a>商丘</a>
+</li>
+<li data-val="364" data-name="上饶">
+<a>上饶</a>
+</li>
+<li data-val="303" data-name="汕头">
+<a>汕头</a>
+</li>
+<li data-val="293" data-name="绍兴">
+<a>绍兴</a>
+</li>
+<li data-val="58" data-name="沈阳">
+<a>沈阳</a>
+</li>
+<li data-val="340" data-name="深圳">
+<a>深圳</a>
+</li>
+<li data-val="150" data-name="石家庄">
+<a>石家庄</a>
+</li>
+<li data-val="1412" data-name="寿光">
+<a>寿光</a>
+</li>
+<li data-val="490" data-name="双阳区">
+<a>双阳区</a>
+</li>
+<li data-val="2598" data-name="舒城">
+<a>舒城</a>
+</li>
+<li data-val="237" data-name="朔州">
+<a>朔州</a>
+</li>
+<li data-val="56" data-name="四平">
+<a>四平</a>
+</li>
+<li data-val="1743" data-name="睢宁">
+<a>睢宁</a>
+</li>
+<li data-val="277" data-name="宿迁">
+<a>宿迁</a>
+</li>
+<li data-val="224" data-name="苏州">
+<a>苏州</a>
+</li>
+<li data-val="370" data-name="宿州">
+<a>宿州</a>
+</li>
+<li data-val="325" data-name="泰安">
+<a>泰安</a>
+</li>
+<li data-val="176" data-name="太原">
+<a>太原</a>
+</li>
+<li data-val="244" data-name="台州">
+<a>台州</a>
+</li>
+<li data-val="276" data-name="泰州">
+<a>泰州</a>
+</li>
+<li data-val="1935" data-name="郯城">
+<a>郯城</a>
+</li>
+<li data-val="265" data-name="唐山">
+<a>唐山</a>
+</li>
+<li data-val="332" data-name="天津">
+<a>天津</a>
+</li>
+<li data-val="232" data-name="铜川">
+<a>铜川</a>
+</li>
+<li data-val="165" data-name="通化">
+<a>通化</a>
+</li>
+<li data-val="64" data-name="通辽">
+<a>通辽</a>
+</li>
+<li data-val="337" data-name="铜陵">
+<a>铜陵</a>
+</li>
+<li data-val="205" data-name="铜仁地区">
+<a>铜仁地区</a>
+</li>
+<li data-val="287" data-name="潍坊">
+<a>潍坊</a>
+</li>
+<li data-val="175" data-name="威海">
+<a>威海</a>
+</li>
+<li data-val="170" data-name="渭南">
+<a>渭南</a>
+</li>
+<li data-val="2879" data-name="微山">
+<a>微山</a>
+</li>
+<li data-val="2393" data-name="尉氏">
+<a>尉氏</a>
+</li>
+<li data-val="1665" data-name="威">
+<a>威</a>
+</li>
+<li data-val="1819" data-name="汶上">
+<a>汶上</a>
+</li>
+<li data-val="178" data-name="温州">
+<a>温州</a>
+</li>
+<li data-val="1246" data-name="武安">
+<a>武安</a>
+</li>
+<li data-val="123" data-name="乌海">
+<a>乌海</a>
+</li>
+<li data-val="218" data-name="武汉">
+<a>武汉</a>
+</li>
+<li data-val="129" data-name="芜湖">
+<a>芜湖</a>
+</li>
+<li data-val="168" data-name="乌兰察布">
+<a>乌兰察布</a>
+</li>
+<li data-val="92" data-name="乌鲁木齐">
+<a>乌鲁木齐</a>
+</li>
+<li data-val="1951" data-name="无为">
+<a>无为</a>
+</li>
+<li data-val="317" data-name="无锡">
+<a>无锡</a>
+</li>
+<li data-val="194" data-name="厦门">
+<a>厦门</a>
+</li>
+<li data-val="233" data-name="西安">
+<a>西安</a>
+</li>
+<li data-val="313" data-name="湘潭">
+<a>湘潭</a>
+</li>
+<li data-val="156" data-name="襄阳">
+<a>襄阳</a>
+</li>
+<li data-val="1713" data-name="仙桃">
+<a>仙桃</a>
+</li>
+<li data-val="323" data-name="咸阳">
+<a>咸阳</a>
+</li>
+<li data-val="1324" data-name="兴化">
+<a>兴化</a>
+</li>
+<li data-val="266" data-name="邢台">
+<a>邢台</a>
+</li>
+<li data-val="1762" data-name="星子">
+<a>星子</a>
+</li>
+<li data-val="519" data-name="新民">
+<a>新民</a>
+</li>
+<li data-val="152" data-name="新乡">
+<a>新乡</a>
+</li>
+<li data-val="214" data-name="信阳">
+<a>信阳</a>
+</li>
+<li data-val="2421" data-name="新沂">
+<a>新沂</a>
+</li>
+<li data-val="164" data-name="新余">
+<a>新余</a>
+</li>
+<li data-val="2652" data-name="新郑">
+<a>新郑</a>
+</li>
+<li data-val="367" data-name="忻州">
+<a>忻州</a>
+</li>
+<li data-val="1650" data-name="雄">
+<a>雄</a>
+</li>
+<li data-val="2875" data-name="修水">
+<a>修水</a>
+</li>
+<li data-val="190" data-name="宣城">
+<a>宣城</a>
+</li>
+<li data-val="155" data-name="许昌">
+<a>许昌</a>
+</li>
+<li data-val="1756" data-name="盱眙">
+<a>盱眙</a>
+</li>
+<li data-val="316" data-name="徐州">
+<a>徐州</a>
+</li>
+<li data-val="284" data-name="延安">
+<a>延安</a>
+</li>
+<li data-val="54" data-name="延边朝鲜族自治州">
+<a>延边朝鲜族自治州</a>
+</li>
+<li data-val="223" data-name="盐城">
+<a>盐城</a>
+</li>
+<li data-val="346" data-name="扬州">
+<a>扬州</a>
+</li>
+<li data-val="452" data-name="延寿">
+<a>延寿</a>
+</li>
+<li data-val="326" data-name="烟台">
+<a>烟台</a>
+</li>
+<li data-val="270" data-name="宜昌">
+<a>宜昌</a>
+</li>
+<li data-val="360" data-name="银川">
+<a>银川</a>
+</li>
+<li data-val="281" data-name="营口">
+<a>营口</a>
+</li>
+<li data-val="279" data-name="鹰潭">
+<a>鹰潭</a>
+</li>
+<li data-val="491" data-name="伊通满族自治">
+<a>伊通满族自治</a>
+</li>
+<li data-val="2424" data-name="仪征">
+<a>仪征</a>
+</li>
+<li data-val="1977" data-name="尤溪">
+<a>尤溪</a>
+</li>
+<li data-val="220" data-name="岳阳">
+<a>岳阳</a>
+</li>
+<li data-val="231" data-name="榆林">
+<a>榆林</a>
+</li>
+<li data-val="328" data-name="运城">
+<a>运城</a>
+</li>
+<li data-val="469" data-name="榆树">
+<a>榆树</a>
+</li>
+<li data-val="2215" data-name="余姚">
+<a>余姚</a>
+</li>
+<li data-val="1241" data-name="枣强">
+<a>枣强</a>
+</li>
+<li data-val="172" data-name="枣庄">
+<a>枣庄</a>
+</li>
+<li data-val="264" data-name="张家口">
+<a>张家口</a>
+</li>
+<li data-val="2129" data-name="樟树">
+<a>樟树</a>
+</li>
+<li data-val="255" data-name="漳州">
+<a>漳州</a>
+</li>
+<li data-val="198" data-name="湛江">
+<a>湛江</a>
+</li>
+<li data-val="1020" data-name="肇东">
+<a>肇东</a>
+</li>
+<li data-val="467" data-name="洮南">
+<a>洮南</a>
+</li>
+<li data-val="338" data-name="肇庆">
+<a>肇庆</a>
+</li>
+<li data-val="268" data-name="郑州">
+<a>郑州</a>
+</li>
+<li data-val="160" data-name="镇江">
+<a>镇江</a>
+</li>
+<li data-val="1680" data-name="中牟">
+<a>中牟</a>
+</li>
+<li data-val="187" data-name="中山">
+<a>中山</a>
+</li>
+<li data-val="245" data-name="舟山">
+<a>舟山</a>
+</li>
+<li data-val="140" data-name="珠海">
+<a>珠海</a>
+</li>
+<li data-val="269" data-name="驻马店">
+<a>驻马店</a>
+</li>
+<li data-val="222" data-name="株洲">
+<a>株洲</a>
+</li>
+<li data-val="354" data-name="淄博">
+<a>淄博</a>
+</li>
+<li data-val="78" data-name="自贡">
+<a>自贡</a>
+</li>
+<li data-val="242" data-name="资阳">
+<a>资阳</a>
+</li>
+<li data-val="1401" data-name="邹城">
+<a>邹城</a>
+</li>
+</ul>
