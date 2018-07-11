@@ -12,6 +12,59 @@ public class MyConstant extends Constant {
     public static String UPDATE_CONFIG_TIME;
     public static String CONFIG_PATH;
 
+    public static class XIACHUFANG_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static int COOKBOOKINFO_THREAD;
+        public static int COOKBOOKINFO_LIMIT;
+        public static int COMMENT_THREAD;
+        public static int COMMENT_LIMIT;
+
+        public static boolean CATEGORY;
+        public static boolean AUTHOR;
+        public static boolean KEYWORD;
+        public static String SIMPLE_TIME;
+
+        public static boolean SEARCH_AUTHOR;
+        public static String SEARCH_AUTHOR_TIME;
+
+        public static boolean COOKBOOKINFO;
+        public static String COOKBOOKINFO_TIME;
+
+        public static boolean COMMENT;
+        public static String COMMENT_TIME;
+    }
+
+    public static class TIANYA_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static String SEARCH_TIME;
+        public static String INFO_TIME;
+
+    }
+
+    public static class FANG_CONFIG {
+
+        public static int THREAD;
+        public static int LIMIT;
+        public static int SEARCH_THREAD;
+        public static int SEARCH_LIMIT;
+        public static boolean SEARCH;
+        public static boolean SEARCHNEXT;
+
+        public static String SEARCH_TIME;
+        public static String SEARCHNEXT_TIME;
+
+    }
+    public static class QUNAR_CONFIG {
+        public static int SEARCH_THREAD;
+        public static int SEARCH_LIMIT;
+        public static boolean SEARCH;
+        public static String SEARCH_TIME;
+    }
+
     public static class MEITUAN_CONFIG {
         public static int INFO_THREAD;
         public static int INFO_LIMIT;
@@ -306,5 +359,174 @@ public class MyConstant extends Constant {
         
         public static Dao BIDAO;
 
+    }
+
+
+    public static class SUNING_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean COMMENT_INFO;
+        public static boolean SPECIAL_INFO;
+        public static String SEARCH_TIME;
+        public static String INFO_TIME;
+        public static String COMMNET_TIME;
+    }
+
+    public static class JUMEI_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean REQUEST;
+        public static boolean COMMENT;
+        public static boolean KEYWORD;
+
+    }
+
+    public static class MOGUJIE_CONFIG {
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean COMMENT;
+        public static int THREAD;
+        public static int LIMIT;
+        public static int SNATCHLIMIT;
+        public static String COOKIE;
+
+    }
+
+    public static class YHD_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static int COMMENT_THREAD;
+        public static int COMMENT_LIMIT;
+        public static boolean SEARCH;
+        public static boolean SEARCHNEXT;
+        public static boolean INFO;
+        public static boolean COMMNET;
+
+        public static String SEARCH_TIME;
+        public static String SEARCHNEXT_TIME;
+        public static String INFO_TIME;
+        public static String COMMNET_TIME;
+
+    }
+
+    public static class JD_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static int JD_COMMENT_THREAD;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean REQUEST;
+        public static boolean COMMENT;
+        public static boolean KEYWORD;
+        public static boolean CHANGE_IP;
+        public static int PAGEMAX;
+        public static String SEARCH_TIME;
+        public static String INFO_TIME;
+        public static String COMMNET_TIME;
+        public static String COOKIE;
+        public static int KEYWORD_NEXT_THREAD;
+        public static int KEYWORD_NEXT_LIMIT;
+        public static String KEYWORD_NEXT_SEARCH_TIME;
+    }
+
+    public static class AMAZON_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean SEARCH_NEXT;
+        public static boolean COMMENT;
+        public static boolean KEYWORD;
+
+    }
+
+    public static class DANGDANG_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean COMMENT;
+
+    }
+
+    public static class MEILISHUO_CONFIG {
+        public static boolean RECEIVE;
+        public static int THREAD;
+        public static int LIMIT;
+        public static int SNATCHLIMIT;
+        public static String COOKIE;
+
+    }
+
+    public static class VIP_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static boolean COMMENTS;
+    }
+
+    public static class TUHU_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static int P_THREAD;
+        public static int P_LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static String SEARCH_TIME;
+        public static String INFO_TIME;
+    }
+
+    public static class VIP2_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static boolean SEARCH;
+        public static boolean INFO;
+        public static String SEARCH_TIME;
+        public static String INFO_TIME;
+    }
+
+    public static class LEFENG_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+
+        public static boolean SEARCH;
+        public static String SEARCH_TIME;
+
+        public static boolean SEARCH_NEXT;
+        public static String SEARCH_NEXT_TIME;
+
+        public static boolean INFO;
+        public static String INFO_TIME;
+    }
+
+    public static class CHUCHUJIE_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+
+        public static boolean PRODUCT;
+        public static String PRODUCT_TIME;
+
+        public static boolean INFO;
+        public static String INFO_TIME;
+    }
+
+    public static class KAOLA_CONFIG {
+        public static int THREAD;
+        public static int LIMIT;
+        public static String NODE;
+
+        public static boolean SIMPLE;
+        public static String SIMPLE_TIME;
+
+        public static boolean INFO;
+        public static String INFO_TIME;
+
+        public static boolean SNATCH;
+        public static String SNATCH_TIME;
     }
 }
